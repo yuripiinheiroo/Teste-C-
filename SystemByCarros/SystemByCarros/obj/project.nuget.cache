@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "h7REDRMqyvNg5OUsGVcZU9SOH4ajHT1Ll+otT/1ld51LKD+f9YcDp7T6I9B3A6WmVAeT1Q8F+dYrvVUuNBYLsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yuri\\Desktop\\SystemByCarros - Copia\\SystemByCarros\\SystemByCarros.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yuri\\.nuget\\packages\\documentformat.openxml\\3.0.2\\documentformat.openxml.3.0.2.nupkg.sha512",
+    "C:\\Users\\Yuri\\.nuget\\packages\\documentformat.openxml.framework\\3.0.2\\documentformat.openxml.framework.3.0.2.nupkg.sha512",
+    "C:\\Users\\Yuri\\.nuget\\packages\\system.io.packaging\\8.0.0\\system.io.packaging.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

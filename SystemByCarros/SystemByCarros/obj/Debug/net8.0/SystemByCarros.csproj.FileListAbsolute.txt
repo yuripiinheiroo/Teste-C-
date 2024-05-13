@@ -1,0 +1,38 @@
+C:\Users\SONY\Desktop\SystemByCarros\SystemByCarros\bin\Debug\net8.0\SystemByCarros.exe
+C:\Users\SONY\Desktop\SystemByCarros\SystemByCarros\bin\Debug\net8.0\SystemByCarros.deps.json
+C:\Users\SONY\Desktop\SystemByCarros\SystemByCarros\bin\Debug\net8.0\SystemByCarros.runtimeconfig.json
+C:\Users\SONY\Desktop\SystemByCarros\SystemByCarros\bin\Debug\net8.0\SystemByCarros.dll
+C:\Users\SONY\Desktop\SystemByCarros\SystemByCarros\bin\Debug\net8.0\SystemByCarros.pdb
+C:\Users\SONY\Desktop\SystemByCarros\SystemByCarros\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+C:\Users\SONY\Desktop\SystemByCarros\SystemByCarros\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\SONY\Desktop\SystemByCarros\SystemByCarros\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\SONY\Desktop\SystemByCarros\SystemByCarros\obj\Debug\net8.0\SystemByCarros.csproj.AssemblyReference.cache
+C:\Users\SONY\Desktop\SystemByCarros\SystemByCarros\obj\Debug\net8.0\SystemByCarros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SONY\Desktop\SystemByCarros\SystemByCarros\obj\Debug\net8.0\SystemByCarros.AssemblyInfoInputs.cache
+C:\Users\SONY\Desktop\SystemByCarros\SystemByCarros\obj\Debug\net8.0\SystemByCarros.AssemblyInfo.cs
+C:\Users\SONY\Desktop\SystemByCarros\SystemByCarros\obj\Debug\net8.0\SystemByCarros.csproj.CoreCompileInputs.cache
+C:\Users\SONY\Desktop\SystemByCarros\SystemByCarros\obj\Debug\net8.0\SystemBy.71836B89.Up2Date
+C:\Users\SONY\Desktop\SystemByCarros\SystemByCarros\obj\Debug\net8.0\SystemByCarros.dll
+C:\Users\SONY\Desktop\SystemByCarros\SystemByCarros\obj\Debug\net8.0\refint\SystemByCarros.dll
+C:\Users\SONY\Desktop\SystemByCarros\SystemByCarros\obj\Debug\net8.0\SystemByCarros.pdb
+C:\Users\SONY\Desktop\SystemByCarros\SystemByCarros\obj\Debug\net8.0\SystemByCarros.genruntimeconfig.cache
+C:\Users\SONY\Desktop\SystemByCarros\SystemByCarros\obj\Debug\net8.0\ref\SystemByCarros.dll
+C:\Users\Yuri\Desktop\SystemByCarros - Copia\SystemByCarros\obj\Debug\net8.0\SystemByCarros.csproj.AssemblyReference.cache
+C:\Users\Yuri\Desktop\SystemByCarros - Copia\SystemByCarros\obj\Debug\net8.0\SystemByCarros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yuri\Desktop\SystemByCarros - Copia\SystemByCarros\obj\Debug\net8.0\SystemByCarros.AssemblyInfoInputs.cache
+C:\Users\Yuri\Desktop\SystemByCarros - Copia\SystemByCarros\obj\Debug\net8.0\SystemByCarros.AssemblyInfo.cs
+C:\Users\Yuri\Desktop\SystemByCarros - Copia\SystemByCarros\obj\Debug\net8.0\SystemByCarros.csproj.CoreCompileInputs.cache
+C:\Users\Yuri\Desktop\SystemByCarros - Copia\SystemByCarros\obj\Debug\net8.0\SystemByCarros.dll
+C:\Users\Yuri\Desktop\SystemByCarros - Copia\SystemByCarros\obj\Debug\net8.0\refint\SystemByCarros.dll
+C:\Users\Yuri\Desktop\SystemByCarros - Copia\SystemByCarros\obj\Debug\net8.0\SystemByCarros.pdb
+C:\Users\Yuri\Desktop\SystemByCarros - Copia\SystemByCarros\bin\Debug\net8.0\SystemByCarros.exe
+C:\Users\Yuri\Desktop\SystemByCarros - Copia\SystemByCarros\bin\Debug\net8.0\SystemByCarros.deps.json
+C:\Users\Yuri\Desktop\SystemByCarros - Copia\SystemByCarros\bin\Debug\net8.0\SystemByCarros.runtimeconfig.json
+C:\Users\Yuri\Desktop\SystemByCarros - Copia\SystemByCarros\bin\Debug\net8.0\SystemByCarros.dll
+C:\Users\Yuri\Desktop\SystemByCarros - Copia\SystemByCarros\bin\Debug\net8.0\SystemByCarros.pdb
+C:\Users\Yuri\Desktop\SystemByCarros - Copia\SystemByCarros\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+C:\Users\Yuri\Desktop\SystemByCarros - Copia\SystemByCarros\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Yuri\Desktop\SystemByCarros - Copia\SystemByCarros\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\Yuri\Desktop\SystemByCarros - Copia\SystemByCarros\obj\Debug\net8.0\SystemBy.71836B89.Up2Date
+C:\Users\Yuri\Desktop\SystemByCarros - Copia\SystemByCarros\obj\Debug\net8.0\SystemByCarros.genruntimeconfig.cache
+C:\Users\Yuri\Desktop\SystemByCarros - Copia\SystemByCarros\obj\Debug\net8.0\ref\SystemByCarros.dll
